@@ -5,6 +5,10 @@ Space Complexity: O(1)
 */
 
 function removeDuplicates(nums) {
+  if (nums.length === 0) {
+    return 0;
+  }
+
   let i = 0;
   let j = 1;
 
