@@ -2,7 +2,7 @@
 
 ### String/Numbers
 
-- [isAnagram - Frequency Counter Time: O(n), Space: O(n) ](https://github.com/varshney-himanshu/dsa/blob/main/javascript/anagram.js)
+- [isAnagram - Frequency Counter - Time: O(n), Space: O(n) ](https://github.com/varshney-himanshu/dsa/blob/main/javascript/anagram.js)
   > find if two given strings are anagrams
 - [isSameDigitFrequency - Frequency Counter - Time: O(n), Space: O(n) ](https://github.com/varshney-himanshu/dsa/blob/main/javascript/isSameDigitFrequency.js)
   > Given two positive integers, find out if the two numbers have the same frequency of digits.
